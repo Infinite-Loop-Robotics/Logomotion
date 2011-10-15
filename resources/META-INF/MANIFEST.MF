@@ -1,4 +1,4 @@
-MIDlet-Name: Logomotion_v6_Twin
+MIDlet-Name: Logomotion_v7_Competition
 MIDlet-Version: 1.0.0
 MIDlet-Vendor: FIRST
 MIDlet-1: MyRobot, , edu.team2648.MyRobot
