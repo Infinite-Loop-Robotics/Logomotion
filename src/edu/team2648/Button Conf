@@ -1,0 +1,67 @@
+//Game Pad coltrols
+//              int arm_elbow_up = 6;
+//              int arm_elbow_dwn = 8;
+//              int claw_wrist_up = 5;
+//              int claw_wrist_dwn = 7;
+//
+//              int claw_spitter_in = 1;
+//              int claw_spitter_out = 4;
+//
+//              int claw_spitter_rotate_up = 2;
+//              int claw_spitter_rotate_dwn = 3;
+
+		//Joystick Controls
+//              int arm_elbow_up = 3;
+//              int arm_elbow_dwn = 2;
+//              int claw_wrist_up = 5;
+//              int claw_wrist_dwn = 4;
+//
+//              int claw_spitter_in = 7;//+trigger
+//              int claw_spitter_out = 6;
+//
+//              int claw_spitter_rotate_up = 8;
+//              int claw_spitter_rotate_dwn = 9;
+//
+//              int move_act = 11;
+
+
+
+
+//                drive.goForwardSlow();
+//
+//                Timer.delay(5);
+//                arm.elbowUp();
+//
+//                Timer.delay(3.75);
+//                drive.stop();
+//                arm.elbowRun(0);
+//
+//                claw.wristRun(-.25);
+//                Timer.delay(.5);
+//                claw.wristRun(0);
+//
+//
+//                claw.spitterOut();
+//                Timer.delay(1);
+//
+//
+//                arm.elbowDwn();
+//                Timer.delay(1);
+//                claw.spitterRun(0);
+//                Timer.delay(.35);
+//
+//                arm.elbowRun(0);
+//
+//                //
+//                drive.goBackwardSlow();
+//                Timer.delay(1);
+//                drive.stop();
+//
+//                arm.elbowDwn();
+//                Timer.delay(1.5);
+//                arm.elbowRun(0);
+//
+//
+//                drive.goRight();
+//                Timer.delay(1.5);
+//                drive.stop();
